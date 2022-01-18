@@ -1,3 +1,3 @@
-# KPrepublic bm80
+# KPRepublic bm80
 QMK
 
